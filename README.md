@@ -12,7 +12,7 @@ are a bit different, so don't let that trip you up.
 
 [sqlzoo]: https://sqlzoo.net
 
-## Learning Goals
+## Learning goals
 
 By the end of this practice, you should be able to
 
@@ -22,7 +22,7 @@ By the end of this practice, you should be able to
 * Use the various types of `JOIN`
 * Write queries with self joins
 
-## Getting Started
+## Getting started
 
 Clone the starter repo from the `Download Project` button below. To set up the database:
 
